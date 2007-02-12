@@ -4,7 +4,7 @@
 #
 %include	/usr/lib/rpm/macros.perl
 Summary:	MP3, Ogg, and WAV files to audio CDs converter
-Summary(pl):	Konwerter plików MP3, Ogg i WAV do formatu audio CD
+Summary(pl.UTF-8):   Konwerter plikÃ³w MP3, Ogg i WAV do formatu audio CD
 Name:		mp3cd
 Version:	1.22.0
 Release:	1
@@ -27,8 +27,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 mp3cd is a Perl script that normalizes and burns MP3, Ogg, and WAV
 files to audio CDs.
 
-%description -l pl
-mp3cd jest skryptem Perla, który normalizuje i nagrywa pliki MP3, Ogg
+%description -l pl.UTF-8
+mp3cd jest skryptem Perla, ktÃ³ry normalizuje i nagrywa pliki MP3, Ogg
 i WAV w formacie audio CD.
 
 %prep
