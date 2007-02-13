@@ -4,7 +4,7 @@
 #
 %include	/usr/lib/rpm/macros.perl
 Summary:	MP3, Ogg, and WAV files to audio CDs converter
-Summary(pl.UTF-8):   Konwerter plików MP3, Ogg i WAV do formatu audio CD
+Summary(pl.UTF-8):	Konwerter plików MP3, Ogg i WAV do formatu audio CD
 Name:		mp3cd
 Version:	1.22.0
 Release:	1
