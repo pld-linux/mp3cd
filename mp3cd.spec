@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_with	test	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 Summary:	MP3, Ogg, and WAV files to audio CDs converter
 Summary(pl.UTF-8):	Konwerter plików MP3, Ogg i WAV do formatu audio CD
 Name:		mp3cd
